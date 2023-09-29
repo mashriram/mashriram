@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mashriram
 - 👀 I’m interested in latest technologies
-- 🌱 I’m currently learning Docker, Kubernetes, Go
-- 💞️ I’m looking to collaborate on Argo project
+- 🌱 I’m currently learning HTML, CSS, JS, React and Flutter
+- 💞️ I’m involved in developing FrontEnd Applications
 - 📫 How to reach me ... mashriram@gmail.com
 
 <!---
